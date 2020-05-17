@@ -1,8 +1,9 @@
 
-#all under Player.gd(gdscript)
+# All under Player.gd(gdscript)
 
-#WHAT FUNCTION STARTS AFTER NODE ENTER
-# _ready is Called when the node enters the scene tree for the first time.
+## WHAT FUNCTION STARTS AFTER NODE ENTER
+##### _READY is called after the node enters
+
 ```
 func _ready():
 	print("hello world!")
